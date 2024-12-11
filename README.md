@@ -5,6 +5,8 @@ The dataset used in this project is available from Kaggle at: https://www.kaggle
 
 ## Explanation of Files
 
+*Image_Classification_on_American_Sign_Language.ipynb: Consolidated Project File
+
 *Updated_12.7.ipynb:* Combined file with EDA, Preprocessing, Training and Evaluation in one notebook
 
 *MobileNetV3_FineTuning.ipynb:* Model training and fine-tuning
